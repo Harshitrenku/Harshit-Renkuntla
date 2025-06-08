@@ -75,12 +75,6 @@ This project was developed as a **portfolio piece** to demonstrate proficiency i
 
 ---
 
-## 📥 Download
-
-You can download the `.pbix` report file from the [Releases](#) section (or provide a link to your actual file here).
-
----
-
 ## 📣 Feedback
 
-If you have suggestions or feedback, feel free to open an issue or connect with me via [LinkedIn](#) (add your profile here).
+If you have suggestions or feedback, feel free to open an issue or connect with me via www.linkedin.com/in/harshit1988
