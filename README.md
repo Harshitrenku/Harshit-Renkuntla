@@ -6,6 +6,8 @@ This Power BI project presents a **Retail Sales Performance Dashboard** for a fi
 
 <img width="766" alt="Image" src="https://github.com/user-attachments/assets/1768fe59-b21c-4e1e-b3f8-f39bbfba6acd" />
 
+----
+
 <img width="755" alt="Image" src="https://github.com/user-attachments/assets/5b7ac922-fb9a-4322-ac28-2e19a44335c0" />
 
 ## 🧠 Key Features & Insights
