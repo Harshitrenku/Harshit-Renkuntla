@@ -48,6 +48,8 @@ This report demonstrates extensive usage of **DAX expressions** to derive calcul
 - `DATESINPERIOD()`
 - `TOTALYTD()`, `TOTALQTD()`
 
+  <img width="421" alt="Image" src="https://github.com/user-attachments/assets/d7bd4375-e2bd-4a62-89cb-dd9274169e21" />
+
 ### Filter & Context Functions:
 - `CALCULATE()`
 - `ALL()`
