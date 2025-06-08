@@ -14,6 +14,8 @@ This Power BI project presents a **Retail Sales Performance Dashboard** for a fi
 
 ### ✅ KPIs Compared with Previous Month:
 - **Revenue:** ₹120.16K vs. goal of ₹113.79K (+5.6%)
+- <img width="203" alt="Image" src="https://github.com/user-attachments/assets/58ac37ed-c5a8-482a-a372-79844eddfad1" />
+
 - **Profit:** ₹71.68K vs. goal of ₹67.87K (+5.61%)
 - **Returns:** 496 vs. goal of 563 (⬇️ 11.9%)
 
