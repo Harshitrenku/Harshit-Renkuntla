@@ -3,7 +3,8 @@
 This Power BI project presents a **Retail Sales Performance Dashboard** for a fictional store, **Reliance Smart Superstore**. The dashboard is designed to showcase analytical insights across multiple dimensions such as revenue, profit, returns, product brand, geography, and state-wise performance.
 
 #Report View
-![Report Preview](<img width="766" alt="Image" src="https://github.com/user-attachments/assets/1768fe59-b21c-4e1e-b3f8-f39bbfba6acd" />)
+
+(<img width="766" alt="Image" src="https://github.com/user-attachments/assets/1768fe59-b21c-4e1e-b3f8-f39bbfba6acd" />)
 
 ## 🧠 Key Features & Insights
 
